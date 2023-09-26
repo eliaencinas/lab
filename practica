@@ -14,5 +14,5 @@ int main(int argc, char** argv)
 void ejemplo(int a, int& b)
 {
     a = 5;
-    b = 8;e
+    b = 8;
 }
